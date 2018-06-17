@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:73628180067:android:b113f8e47b3585fd",
         "android_client_info": {
-          "package_name": "io.github.hidroh.calendar"
+          "package_name": "io.github.IOT.calendar"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "73628180067-u38b7joup9qnvfghhb241g5k3cuuj9ba.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "io.github.hidroh.calendar",
+            "package_name": "io.github.IOT.calendar",
             "certificate_hash": "13f6f990533a4cd0b150a274a7294669c9cbc4a9"
           }
         },

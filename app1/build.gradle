@@ -7,7 +7,7 @@ android {
     buildToolsVersion "26.0.2"
 
     defaultConfig {
-        applicationId "io.github.hidroh.calendar"
+        applicationId "io.github.IOT.calendar"
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
