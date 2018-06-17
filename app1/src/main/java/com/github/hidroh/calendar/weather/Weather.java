@@ -11,7 +11,7 @@ import android.text.TextUtils;
 
 import java.util.HashMap;
 
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 
 /**
  * Model for synced weather information of today and tomorrow

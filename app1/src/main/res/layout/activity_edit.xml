@@ -6,7 +6,7 @@
     android:id="@+id/coordinator_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="io.github.hidroh.calendar.com.github.hidroh.calendar.EditActivity">
+    tools:context="io.github.IOT.calendar.com.github.hidroh.calendar.EditActivity">
 
     <android.support.design.widget.AppBarLayout
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"

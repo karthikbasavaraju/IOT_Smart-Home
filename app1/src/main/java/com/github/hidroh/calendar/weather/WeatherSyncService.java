@@ -23,9 +23,9 @@ import android.widget.Toast;
 import java.io.IOException;
 import java.util.Calendar;
 
-import io.github.hidroh.calendar.BuildConfig;
+import io.github.IOT.calendar.BuildConfig;
 import com.github.hidroh.calendar.CalendarUtils;
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;

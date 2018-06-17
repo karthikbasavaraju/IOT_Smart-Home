@@ -8,7 +8,7 @@ import android.support.v4.content.ContextCompat;
 import android.text.TextUtils;
 import android.text.style.ReplacementSpan;
 
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 
 /**
  * Text span that draws a circle around text, pads to cover at least 2 characters

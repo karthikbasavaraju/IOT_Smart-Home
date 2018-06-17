@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 import com.github.hidroh.calendar.EditActivity;
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 
 /**
  * 'Unlimited' adapter that load more and prune items

@@ -18,7 +18,7 @@ import android.view.View;
 import com.github.hidroh.calendar.CalendarUtils;
 import com.github.hidroh.calendar.weather.Weather;
 
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 import com.github.hidroh.calendar.ViewUtils;
 
 public class AgendaView extends RecyclerView {

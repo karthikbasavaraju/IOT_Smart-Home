@@ -48,8 +48,8 @@ import java.util.Calendar;
 import java.util.Collection;
 import java.util.HashSet;
 
-import io.github.hidroh.calendar.BuildConfig;
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.BuildConfig;
+import io.github.IOT.calendar.R;
 
 import com.github.hidroh.calendar.content.CalendarCursor;
 import com.github.hidroh.calendar.widget.EventCalendarView;

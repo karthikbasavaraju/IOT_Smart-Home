@@ -15,7 +15,7 @@ import android.widget.ListView;
 
 import java.util.Set;
 
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 import com.github.hidroh.calendar.ViewUtils;
 import com.github.hidroh.calendar.content.CalendarCursor;
 

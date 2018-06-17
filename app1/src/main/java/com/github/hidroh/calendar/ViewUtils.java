@@ -4,7 +4,7 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.support.v4.content.ContextCompat;
 
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 
 /**
  * Utility class for view logic

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="io.github.hidroh.calendar">
+    package="io.github.IOT.calendar">
 
     <!-- Required by Calendar Provider -->
     <uses-permission android:name="android.permission.READ_CALENDAR" />
@@ -21,7 +21,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="io.github.hidroh.calendar.Main2Activity">
+        <activity android:name="io.github.IOT.calendar.Main2Activity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

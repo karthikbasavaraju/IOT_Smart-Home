@@ -4,7 +4,6 @@ import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.graphics.Color;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.provider.CalendarContract;
@@ -13,34 +12,28 @@ import android.support.annotation.VisibleForTesting;
 import android.support.design.widget.TextInputLayout;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AlertDialog;
-import android.support.v7.widget.SwitchCompat;
 import android.text.Editable;
 import android.text.TextUtils;
 import android.text.TextWatcher;
 import android.util.AttributeSet;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.CompoundButton;
 import android.widget.DatePicker;
 import android.widget.EditText;
 import android.widget.RelativeLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.TimePicker;
-import android.widget.Toast;
 import android.widget.ToggleButton;
 
 import java.util.Calendar;
-import java.util.StringTokenizer;
 import java.util.TimeZone;
 
 import com.github.hidroh.calendar.CalendarUtils;
-import io.github.hidroh.calendar.R;
+import io.github.IOT.calendar.R;
 
-import com.github.hidroh.calendar.TextChangedListener;
 import com.github.hidroh.calendar.ViewUtils;
 import com.github.hidroh.calendar.content.CalendarCursor;
-import com.google.firebase.database.DatabaseReference;
 
 /**
  * Edit view for an event in {@link android.provider.CalendarContract.Events}
