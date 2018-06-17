@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.content.Context;
 import android.content.Intent;
@@ -21,14 +21,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.content.EventCursor;
-import com.github.hidroh.calendar.weather.Weather;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.content.EventCursor;
+import com.github.IOT.calendar.weather.Weather;
 
 import java.util.ArrayList;
 import java.util.Collection;
 
-import com.github.hidroh.calendar.EditActivity;
+import com.github.IOT.calendar.EditActivity;
 import io.github.IOT.calendar.R;
 
 /**

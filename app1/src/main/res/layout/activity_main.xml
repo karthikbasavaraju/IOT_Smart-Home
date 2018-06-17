@@ -13,7 +13,7 @@
             android:id="@+id/coordinator_layout"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            tools:context="com.github.hidroh.calendar.MainActivity">
+            tools:context="com.github.IOT.calendar.MainActivity">
 
             <include layout="@layout/toolbar_main"
                 android:layout_width="match_parent"
@@ -52,7 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize" />
 
-            <com.github.hidroh.calendar.widget.CalendarSelectionView
+            <com.github.IOT.calendar.widget.CalendarSelectionView
                 android:id="@+id/list_view_calendar"
                 android:divider="@color/colorDivider"
                 android:visibility="invisible"

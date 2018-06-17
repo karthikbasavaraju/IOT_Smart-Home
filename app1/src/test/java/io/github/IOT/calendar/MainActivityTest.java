@@ -30,15 +30,15 @@ import org.robolectric.util.ActivityController;
 import java.util.Arrays;
 import java.util.Calendar;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.EditActivity;
-import com.github.hidroh.calendar.MainActivity;
-import com.github.hidroh.calendar.content.EventCursor;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.EditActivity;
+import com.github.IOT.calendar.MainActivity;
+import com.github.IOT.calendar.content.EventCursor;
 import io.github.IOT.calendar.test.shadows.ShadowLinearLayoutManager;
 import io.github.IOT.calendar.test.shadows.ShadowRecyclerView;
 import io.github.IOT.calendar.test.shadows.ShadowViewPager;
-import com.github.hidroh.calendar.widget.AgendaView;
-import com.github.hidroh.calendar.widget.EventCalendarView;
+import com.github.IOT.calendar.widget.AgendaView;
+import com.github.IOT.calendar.widget.EventCalendarView;
 
 import static junit.framework.Assert.assertTrue;
 import static org.assertj.android.api.Assertions.assertThat;

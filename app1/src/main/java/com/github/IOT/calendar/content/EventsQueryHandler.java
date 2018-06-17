@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.content;
+package com.github.IOT.calendar.content;
 
 import android.content.AsyncQueryHandler;
 import android.content.ContentResolver;
@@ -7,7 +7,7 @@ import android.net.Uri;
 import android.provider.CalendarContract;
 import android.support.annotation.NonNull;
 
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 
 import java.util.ArrayList;
 import java.util.Collection;

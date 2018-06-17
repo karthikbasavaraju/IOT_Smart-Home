@@ -21,9 +21,9 @@ import org.robolectric.util.ServiceController;
 
 import java.io.IOException;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.weather.WeatherSyncAlarmReceiver;
-import com.github.hidroh.calendar.weather.WeatherSyncService;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.weather.WeatherSyncAlarmReceiver;
+import com.github.IOT.calendar.weather.WeatherSyncService;
 
 import retrofit2.Call;
 import retrofit2.Response;

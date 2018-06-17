@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.content.Context;
 import android.database.ContentObserver;
@@ -8,8 +8,8 @@ import android.support.v4.view.ViewPager;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.content.EventCursor;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.content.EventCursor;
 
 /**
  * A custom CalendarDate View, in the form of circular {@link ViewPager}

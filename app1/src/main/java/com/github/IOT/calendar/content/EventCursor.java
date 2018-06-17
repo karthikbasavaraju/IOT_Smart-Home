@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.content;
+package com.github.IOT.calendar.content;
 
 import android.database.Cursor;
 import android.database.CursorWrapper;

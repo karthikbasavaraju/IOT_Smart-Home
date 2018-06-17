@@ -47,7 +47,7 @@
         android:layout_height="match_parent"
         tools:ignore="UnusedAttribute">
 
-        <com.github.hidroh.calendar.widget.EventEditView
+        <com.github.IOT.calendar.widget.EventEditView
             android:id="@+id/event_edit_view"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

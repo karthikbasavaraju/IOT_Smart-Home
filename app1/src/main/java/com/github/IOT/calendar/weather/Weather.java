@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.weather;
+package com.github.IOT.calendar.weather;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;

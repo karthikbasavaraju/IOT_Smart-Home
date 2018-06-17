@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar;
+package com.github.IOT.calendar;
 
 import android.content.Context;
 import android.support.v4.util.Pools;

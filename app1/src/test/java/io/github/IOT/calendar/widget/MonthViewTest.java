@@ -24,13 +24,13 @@ import java.text.DateFormatSymbols;
 import java.util.Calendar;
 import java.util.TimeZone;
 
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 import io.github.IOT.calendar.R;
 import io.github.IOT.calendar.test.TestEventCursor;
 import io.github.IOT.calendar.test.shadows.ShadowViewHolder;
-import com.github.hidroh.calendar.text.style.CircleSpan;
-import com.github.hidroh.calendar.text.style.UnderDotSpan;
-import com.github.hidroh.calendar.widget.MonthView;
+import com.github.IOT.calendar.text.style.CircleSpan;
+import com.github.IOT.calendar.text.style.UnderDotSpan;
+import com.github.IOT.calendar.widget.MonthView;
 
 import static io.github.IOT.calendar.test.assertions.SpannableStringAssert.assertThat;
 import static org.assertj.android.api.Assertions.assertThat;

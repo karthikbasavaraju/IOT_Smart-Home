@@ -1,6 +1,6 @@
 package io.github.IOT.calendar;
 
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 
 import org.junit.After;
 import org.junit.Before;

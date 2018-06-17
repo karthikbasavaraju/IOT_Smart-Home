@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -16,8 +16,8 @@ import android.widget.ListView;
 import java.util.Set;
 
 import io.github.IOT.calendar.R;
-import com.github.hidroh.calendar.ViewUtils;
-import com.github.hidroh.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.ViewUtils;
+import com.github.IOT.calendar.content.CalendarCursor;
 
 public class CalendarSelectionView extends ListView {
     private final SimpleCursorAdapter mCursorAdapter;

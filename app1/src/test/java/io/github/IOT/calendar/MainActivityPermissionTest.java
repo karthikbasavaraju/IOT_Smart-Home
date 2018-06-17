@@ -3,7 +3,7 @@ package io.github.IOT.calendar;
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 
-import com.github.hidroh.calendar.MainActivity;
+import com.github.IOT.calendar.MainActivity;
 
 import org.junit.After;
 import org.junit.Before;

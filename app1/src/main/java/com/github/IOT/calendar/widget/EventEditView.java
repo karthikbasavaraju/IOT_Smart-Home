@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;
@@ -29,11 +29,11 @@ import android.widget.ToggleButton;
 import java.util.Calendar;
 import java.util.TimeZone;
 
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 import io.github.IOT.calendar.R;
 
-import com.github.hidroh.calendar.ViewUtils;
-import com.github.hidroh.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.ViewUtils;
+import com.github.IOT.calendar.content.CalendarCursor;
 
 /**
  * Edit view for an event in {@link android.provider.CalendarContract.Events}

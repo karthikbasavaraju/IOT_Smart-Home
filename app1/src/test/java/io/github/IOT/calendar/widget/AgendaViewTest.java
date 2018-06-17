@@ -25,16 +25,16 @@ import org.robolectric.annotation.Config;
 import org.robolectric.internal.ShadowExtractor;
 import org.robolectric.util.ActivityController;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.EditActivity;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.EditActivity;
 import io.github.IOT.calendar.R;
-import com.github.hidroh.calendar.content.EventCursor;
+import com.github.IOT.calendar.content.EventCursor;
 import io.github.IOT.calendar.test.TestEventCursor;
 import io.github.IOT.calendar.test.shadows.ShadowLinearLayoutManager;
 import io.github.IOT.calendar.test.shadows.ShadowRecyclerView;
-import com.github.hidroh.calendar.weather.Weather;
-import com.github.hidroh.calendar.widget.AgendaAdapter;
-import com.github.hidroh.calendar.widget.AgendaView;
+import com.github.IOT.calendar.weather.Weather;
+import com.github.IOT.calendar.widget.AgendaAdapter;
+import com.github.IOT.calendar.widget.AgendaView;
 
 import static org.assertj.android.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThat;

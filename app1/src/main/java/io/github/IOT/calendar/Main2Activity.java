@@ -10,7 +10,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 
-import com.github.hidroh.calendar.MainActivity;
+import com.github.IOT.calendar.MainActivity;
 
 public class Main2Activity extends AppCompatActivity {
 

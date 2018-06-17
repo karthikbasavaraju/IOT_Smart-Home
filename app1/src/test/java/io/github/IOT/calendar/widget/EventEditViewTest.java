@@ -28,10 +28,10 @@ import org.robolectric.util.ActivityController;
 import java.util.Calendar;
 import java.util.TimeZone;
 
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 import io.github.IOT.calendar.R;
-import com.github.hidroh.calendar.content.CalendarCursor;
-import com.github.hidroh.calendar.widget.EventEditView;
+import com.github.IOT.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.widget.EventEditView;
 
 import static org.assertj.android.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThat;

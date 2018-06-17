@@ -19,9 +19,9 @@ import org.robolectric.util.ActivityController;
 import io.github.IOT.calendar.test.shadows.ShadowLinearLayoutManager;
 import io.github.IOT.calendar.test.shadows.ShadowRecyclerView;
 
-import com.github.hidroh.calendar.MainActivity;
-import com.github.hidroh.calendar.weather.WeatherSyncService;
-import com.github.hidroh.calendar.widget.AgendaView;
+import com.github.IOT.calendar.MainActivity;
+import com.github.IOT.calendar.weather.WeatherSyncService;
+import com.github.IOT.calendar.widget.AgendaView;
 
 import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;

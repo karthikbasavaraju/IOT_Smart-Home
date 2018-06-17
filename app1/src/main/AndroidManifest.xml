@@ -29,15 +29,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.github.hidroh.calendar.EditActivity"
+            android:name="com.github.IOT.calendar.EditActivity"
             android:windowSoftInputMode="adjustResize"></activity>
 
-        <receiver android:name="com.github.hidroh.calendar.weather.WeatherSyncAlarmReceiver" />
+        <receiver android:name="com.github.IOT.calendar.weather.WeatherSyncAlarmReceiver" />
 
-        <service android:name="com.github.hidroh.calendar.weather.WeatherSyncService" />
+        <service android:name="com.github.IOT.calendar.weather.WeatherSyncService" />
 
         <activity
-            android:name="com.github.hidroh.calendar.MainActivity"
+            android:name="com.github.IOT.calendar.MainActivity"
             android:label="@string/title_activity_main2"
             android:theme="@style/AppTheme"></activity>
     </application>

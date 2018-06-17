@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.content.Context;
 import android.graphics.Canvas;
@@ -15,11 +15,11 @@ import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.view.View;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.weather.Weather;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.weather.Weather;
 
 import io.github.IOT.calendar.R;
-import com.github.hidroh.calendar.ViewUtils;
+import com.github.IOT.calendar.ViewUtils;
 
 public class AgendaView extends RecyclerView {
     private static final String STATE_VIEW = "state:view";

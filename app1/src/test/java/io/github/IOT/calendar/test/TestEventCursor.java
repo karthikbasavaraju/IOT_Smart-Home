@@ -3,7 +3,7 @@ package io.github.IOT.calendar.test;
 import android.database.ContentObserver;
 import android.database.MatrixCursor;
 
-import com.github.hidroh.calendar.content.EventCursor;
+import com.github.IOT.calendar.content.EventCursor;
 
 public class TestEventCursor extends EventCursor {
     private ContentObserver contentObserver;

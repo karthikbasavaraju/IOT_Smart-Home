@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:showIn="@layout/activity_main">
 
-    <com.github.hidroh.calendar.widget.EventCalendarView
+    <com.github.IOT.calendar.widget.EventCalendarView
         android:id="@id/calendar_view"
         android:layout_width="@dimen/calendar_width"
         android:layout_height="match_parent" />
@@ -19,7 +19,7 @@
         android:layout_width="@dimen/divider_size"
         android:layout_height="match_parent" />
 
-    <com.github.hidroh.calendar.widget.AgendaView
+    <com.github.IOT.calendar.widget.AgendaView
         android:id="@id/agenda_view"
         android:layout_toRightOf="@id/divider"
         android:layout_toEndOf="@id/divider"

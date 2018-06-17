@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.database.ContentObserver;
 import android.os.Bundle;
@@ -11,8 +11,8 @@ import android.support.v4.view.ViewPager;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.content.EventCursor;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.content.EventCursor;
 
 import java.util.ArrayList;
 import java.util.List;

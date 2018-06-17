@@ -10,7 +10,7 @@
     android:animateLayoutChanges="true"
     tools:showIn="@layout/activity_main">
 
-    <com.github.hidroh.calendar.widget.EventCalendarView
+    <com.github.IOT.calendar.widget.EventCalendarView
         android:id="@id/calendar_view"
         android:visibility="gone"
         tools:visibility="visible"
@@ -20,7 +20,7 @@
         android:layout_height="wrap_content"
         tools:ignore="UnusedAttribute" />
 
-    <com.github.hidroh.calendar.widget.AgendaView
+    <com.github.IOT.calendar.widget.AgendaView
         android:id="@id/agenda_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />

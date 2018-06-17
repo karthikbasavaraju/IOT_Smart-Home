@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar;
+package com.github.IOT.calendar;
 
 import android.Manifest;
 import android.content.AsyncQueryHandler;
@@ -30,14 +30,14 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
-import com.github.hidroh.calendar.widget.EventEditView;
+import com.github.IOT.calendar.widget.EventEditView;
 
 import java.lang.ref.WeakReference;
 import java.util.HashMap;
 
 import io.github.IOT.calendar.R;
 
-import com.github.hidroh.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.content.CalendarCursor;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 

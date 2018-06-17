@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.widget;
+package com.github.IOT.calendar.widget;
 
 import android.content.Context;
 import android.provider.CalendarContract;
@@ -16,7 +16,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.github.hidroh.calendar.content.EventCursor;
+import com.github.IOT.calendar.content.EventCursor;
 
 import java.text.DateFormatSymbols;
 import java.util.Calendar;
@@ -24,11 +24,11 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 import io.github.IOT.calendar.R;
 
-import com.github.hidroh.calendar.text.style.CircleSpan;
-import com.github.hidroh.calendar.text.style.UnderDotSpan;
+import com.github.IOT.calendar.text.style.CircleSpan;
+import com.github.IOT.calendar.text.style.UnderDotSpan;
 
 /**
  * Custom widget to display a grid of days in a month, represented by a {@link Calendar}

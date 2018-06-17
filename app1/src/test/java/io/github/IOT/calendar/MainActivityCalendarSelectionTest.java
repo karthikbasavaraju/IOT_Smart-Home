@@ -27,10 +27,10 @@ import org.robolectric.util.ActivityController;
 import java.util.Arrays;
 import java.util.List;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.MainActivity;
-import com.github.hidroh.calendar.content.CalendarCursor;
-import com.github.hidroh.calendar.widget.CalendarSelectionView;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.MainActivity;
+import com.github.IOT.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.widget.CalendarSelectionView;
 
 import static junit.framework.Assert.assertFalse;
 import static junit.framework.Assert.assertTrue;

@@ -26,11 +26,11 @@ import org.robolectric.util.ActivityController;
 
 import java.util.Arrays;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.EditActivity;
-import com.github.hidroh.calendar.MainActivity;
-import com.github.hidroh.calendar.content.CalendarCursor;
-import com.github.hidroh.calendar.widget.EventEditView;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.EditActivity;
+import com.github.IOT.calendar.MainActivity;
+import com.github.IOT.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.widget.EventEditView;
 
 import static junit.framework.Assert.assertNotNull;
 import static org.assertj.android.api.Assertions.assertThat;

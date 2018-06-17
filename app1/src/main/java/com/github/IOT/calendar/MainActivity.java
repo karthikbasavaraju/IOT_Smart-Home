@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar;
+package com.github.IOT.calendar;
 
 import android.Manifest;
 import android.content.AsyncQueryHandler;
@@ -36,12 +36,12 @@ import android.widget.CheckedTextView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.github.hidroh.calendar.content.EventCursor;
-import com.github.hidroh.calendar.content.EventsQueryHandler;
-import com.github.hidroh.calendar.weather.WeatherSyncService;
-import com.github.hidroh.calendar.widget.AgendaAdapter;
-import com.github.hidroh.calendar.widget.AgendaView;
-import com.github.hidroh.calendar.widget.CalendarSelectionView;
+import com.github.IOT.calendar.content.EventCursor;
+import com.github.IOT.calendar.content.EventsQueryHandler;
+import com.github.IOT.calendar.weather.WeatherSyncService;
+import com.github.IOT.calendar.widget.AgendaAdapter;
+import com.github.IOT.calendar.widget.AgendaView;
+import com.github.IOT.calendar.widget.CalendarSelectionView;
 
 import java.util.Arrays;
 import java.util.Calendar;
@@ -51,8 +51,8 @@ import java.util.HashSet;
 import io.github.IOT.calendar.BuildConfig;
 import io.github.IOT.calendar.R;
 
-import com.github.hidroh.calendar.content.CalendarCursor;
-import com.github.hidroh.calendar.widget.EventCalendarView;
+import com.github.IOT.calendar.content.CalendarCursor;
+import com.github.IOT.calendar.widget.EventCalendarView;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor> {
 

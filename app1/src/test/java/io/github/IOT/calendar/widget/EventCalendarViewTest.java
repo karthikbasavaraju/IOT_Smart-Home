@@ -18,10 +18,10 @@ import org.robolectric.annotation.Config;
 import org.robolectric.internal.ShadowExtractor;
 import org.robolectric.util.ActivityController;
 
-import com.github.hidroh.calendar.CalendarUtils;
-import com.github.hidroh.calendar.widget.EventCalendarView;
-import com.github.hidroh.calendar.widget.MonthView;
-import com.github.hidroh.calendar.widget.MonthViewPagerAdapter;
+import com.github.IOT.calendar.CalendarUtils;
+import com.github.IOT.calendar.widget.EventCalendarView;
+import com.github.IOT.calendar.widget.MonthView;
+import com.github.IOT.calendar.widget.MonthViewPagerAdapter;
 
 import io.github.IOT.calendar.R;
 import io.github.IOT.calendar.test.TestEventCursor;

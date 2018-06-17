@@ -1,4 +1,4 @@
-package com.github.hidroh.calendar.weather;
+package com.github.IOT.calendar.weather;
 
 import android.Manifest;
 import android.app.AlarmManager;
@@ -24,7 +24,7 @@ import java.io.IOException;
 import java.util.Calendar;
 
 import io.github.IOT.calendar.BuildConfig;
-import com.github.hidroh.calendar.CalendarUtils;
+import com.github.IOT.calendar.CalendarUtils;
 import io.github.IOT.calendar.R;
 import retrofit2.Call;
 import retrofit2.Retrofit;
