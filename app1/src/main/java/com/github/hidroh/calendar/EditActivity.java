@@ -106,9 +106,9 @@ public class EditActivity extends AppCompatActivity implements LoaderManager.Loa
 
                 Spinner s = mEventEditView.findViewById(R.id.spinner1);
                 switch(temp[2]){
-                    case "Bedroom" : s.setSelection(1);break;
-                    case "Bathroom" : s.setSelection(2);break;
-                    case "Kitchen" : s.setSelection(3);break;
+                    case "Bedroom-Light" : s.setSelection(1);break;
+                    case "Bathroom-Light" : s.setSelection(2);break;
+                    case "Kitchen-Light" : s.setSelection(3);break;
                     case "WaterHeater" : s.setSelection(4);break;
                     default: s.setSelection(0);break;
                 }

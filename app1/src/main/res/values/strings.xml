@@ -44,10 +44,10 @@
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string-array name="device_names">
-        <item>SelectDevice</item>
-        <item>Bedroom</item>
-        <item>Bathroom</item>
-        <item>Kitchen</item>
+        <item>Select-Device</item>
+        <item>Bedroom-Light</item>
+        <item>Bathroom-Light</item>
+        <item>Kitchen-Light</item>
         <item>WaterHeater</item>
     </string-array>
 

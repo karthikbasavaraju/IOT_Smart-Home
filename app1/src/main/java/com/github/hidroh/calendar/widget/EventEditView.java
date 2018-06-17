@@ -46,7 +46,7 @@ import com.google.firebase.database.DatabaseReference;
  * Edit view for an event in {@link android.provider.CalendarContract.Events}
  */
 public class EventEditView extends RelativeLayout {
-    public static String[] titleN= {"Turn","off","SelectDevice","24.5"};
+    public static String[] titleN= {"Turn","off","Select-Device","24.5"};
     private final TextInputLayout mTextInputTitle;
     private final TextInputLayout mTextInputTemperature;
     private final EditText mEditTextTitle;
@@ -111,9 +111,9 @@ public class EventEditView extends RelativeLayout {
                     titleN[2] = "WaterHeater";
                     // do your stuff
                 }
-                else if(selectedItem.equals("SelectDevice")){
+                else if(selectedItem.equals("Select-Device")){
                     getmEditTextTemperature.setVisibility(View.INVISIBLE);
-                    titleN[2] = "SelectDevice";
+                    titleN[2] = "Select-Device";
                 }
                 else {
                     getmEditTextTemperature.setVisibility(View.INVISIBLE);
@@ -602,7 +602,7 @@ public class EventEditView extends RelativeLayout {
          */
         public boolean hasTitleIn() {
             String[] temp = title.split(" ");
-            if(temp[2].equals("SelectDevice"))
+            if(temp[2].equals("Select-Device"))
                 return false;
             else
                 return true;

@@ -62,7 +62,7 @@ public class Main2Activity extends AppCompatActivity {
         SectionsPageAdapter adapter = new SectionsPageAdapter(getSupportFragmentManager());
         adapter.addFragment(new Fragment1(), "Light");
         adapter.addFragment(new Fragment2(), "Heater");
-        adapter.addFragment(new Fragment3(), "TAB3");
+//        adapter.addFragment(new Fragment3(), "TAB3");
         viewPager.setAdapter(adapter);
     }
 
